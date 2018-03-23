@@ -1,0 +1,15 @@
+@font-face{
+	font-family: 'Montserrat-Regular';
+	src: url('{{image}}/css/font/Montserrat-Regular.eot');
+	src: url('{{image}}/css/font/Montserrat-Regular.eot') format('eot'),
+	url('{{image}}/css/font/Montserrat-Regular.woff') format('woff'),
+	url('{{image}}/css/font/Montserrat-Regular.ttf') format('truetype'),
+	url('{{image}}/css/font/Montserrat-Regular.svg#webfont') format('svg');
+}
+*{
+	font-family: 'Montserrat-Regular';
+	font-weight: bold;
+}
+.test{
+	/*background-image: url("{{image}}/css/font/a.png");*/
+}
